@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-dad-jokes/static/css/main.e9a7ea4f.chunk.css",
+    "main.js": "/react-dad-jokes/static/js/main.a676873f.chunk.js",
+    "main.js.map": "/react-dad-jokes/static/js/main.a676873f.chunk.js.map",
+    "runtime~main.js": "/react-dad-jokes/static/js/runtime~main.a58e043a.js",
+    "runtime~main.js.map": "/react-dad-jokes/static/js/runtime~main.a58e043a.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/react-dad-jokes/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/react-dad-jokes/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/react-dad-jokes/index.html",
+    "precache-manifest.bfa82d93bcb4becee43afcc4db630260.js": "/react-dad-jokes/precache-manifest.bfa82d93bcb4becee43afcc4db630260.js",
+    "service-worker.js": "/react-dad-jokes/service-worker.js",
+    "static/css/main.e9a7ea4f.chunk.css.map": "/react-dad-jokes/static/css/main.e9a7ea4f.chunk.css.map"
+  }
+}
